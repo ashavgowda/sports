@@ -1,0 +1,70 @@
+.form-data{
+    margin: auto;
+    width: 50%;
+    position: relative;
+    left: 23%;
+    border: 2px solid #ccc;
+    margin: 30px 0;
+}
+
+.form-input{
+    text-align: center;
+}
+
+.form-button{
+    margin-left: 18rem;
+    margin-top: 20px;
+}
+
+.clone-data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.participate-data{
+    margin-bottom: 20px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;        
+}
+
+.form-header{
+    text-align: center;
+    color: #000;
+    font-weight: 500;
+    font-size: 21px;
+    margin-bottom: 14px;
+}
+
+.css-e53awj-MuiStack-root{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.left-button{
+    margin-right: 10px; 
+}
+
+.accordion__button{
+    width: auto;
+}
+
+.mandatory-error{
+    color: red;
+    padding: 15px;
+}
+
+.sign-label{
+    width: 100%;
+}
+
+.logout-button{
+    position: absolute;
+    right: 10px;
+    top: 3px;
+ }
+
+ .accordion__button{
+    width: 95% !important;
+ }
